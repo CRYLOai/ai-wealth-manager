@@ -10,4 +10,4 @@ This system uses 13 artificial intelligence and machine learning algorithms as a
 **Note:** the system is using third party APIs to collect data and to exchange FIAT/token.
 
 ## Would you like to contribute?
-We are currently working on the MVP and are always looking for people to help us turn this idea into reality. Contact us on our website for investors at (https://crylo.org/) if you would like to become part of our team. If you just want to watch how we grow and stay informed about this project, then sign up on our website (https://crylo.ai/).
+We are currently working on the MVP and are always looking for people to help us turn this idea into reality. Contact us on our website for investors (https://crylo.org) if you would like to become part of our team. If you just want to watch how we grow and stay informed about this project, then sign up on our website (https://crylo.ai).
