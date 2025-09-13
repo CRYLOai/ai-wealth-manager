@@ -1,10 +1,10 @@
 # AI Wealth Management
 ## The Professional Digital Wealth Manager
-CRYLO.ai is becoming the first digital wealth management platform for cryptocurrencies and tokens.
+CRYLO.ai is becoming the first digital wealth management platform for cryptocurrencies, tokens, and DeFi protocols.
 
 This is a proof of concept for an AI-powered digital wealth manager. It goes through the entire wealth management process for cryptocurrencies and tokens. Finally, we want to democratize Wall Street, UBS, Blackrock and many others. The goal of this project is to prove that AI can beat any human trader at a massively lower cost.
 
-This system uses 13 artificial intelligence and machine learning algorithms as an orchestra. To find out more, read more about what is CRYLO® and how does it work here: (https://www.crylo.ai/news/what-is-crylo)
+This system uses 13+ artificial intelligence and machine learning algorithms as an orchestra. To find out more, read more about what is CRYLO® and how does it work here: (https://www.crylo.ai/news/what-is-crylo). Also consider reading our White Paper: (https://www.crylo.ai/about-crylo/technology).
 
 **Note:** the system is using third party APIs to collect data and to exchange FIAT/token.
 
