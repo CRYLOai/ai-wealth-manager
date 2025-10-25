@@ -1,10 +1,26 @@
-# AI Wealth Management
-## The Professional Digital Wealth Manager
-CRYLO.ai is becoming the first digital wealth management platform for cryptocurrencies, tokens, and DeFi protocols.
+# CRYLO Research on AI Wealth Management for Digital Assets
+This repo hosts the public methods, evaluation code, and dataset artifacts that support CRYLO’s research releases.
 
-This is a proof of concept for an AI-powered digital wealth manager. It goes through the entire wealth management process for cryptocurrencies and tokens. Finally, we want to democratize Wall Street, UBS, Blackrock and many others. The goal of this project is to prove that AI can beat any human trader at a massively lower cost.
+## CRYLO is Building a Web3 Wealth Manager
+CRYLO.ai is becoming the first digital wealth management platform for cryptocurrencies, tokens, and other web3 protocols such as DeFi, NFTs and so on. This is part of our proof of concept for an AI-powered digital wealth manager. It goes through the entire wealth management process for digital assets. Finally, we want to democratize Wall Street, UBS, Blackrock and many others. The goal of this project is to prove that AI can beat any human trader at a massively lower cost and make professional wealth management accessible to the general public and not just to the wealthy.
 
-This system uses 13+ artificial intelligence and machine learning algorithms as an orchestra. To find out more, read more about what is CRYLO® and how does it work here: (https://www.crylo.ai/news/what-is-crylo). Also consider reading our White Paper: (https://www.crylo.ai/about-crylo/technology).
+This system uses 13+ artificial intelligence and machine learning algorithms as an orchestra. To find out more, read: (https://www.crylo.ai/news/what-is-crylo). Also consider going through our White Paper: (https://www.crylo.ai/about-crylo/technology).
+
+**What’s here**
+- **Methods paper (PDF):** `/paper/methods-paper.pdf`
+- **Evaluation code & baselines:** `/eval/`
+- **Dataset (schema + tiny sample):** `/dataset/` (full release via DOI)
+- **Reproduce figures:** `/repro/repro.sh`
+
+**Latest release:** v1.0.0 • DOI: _pending_  
+**Website:** https://www.crylo.ai/research
+
+## Quick start
+```bash
+# 1) Create env
+conda env create -f repro/environment.yml && conda activate crylo-research
+# 2) Reproduce core figures
+bash repro/repro.sh
 
 **Note:** the system is using third party APIs to collect data and to exchange FIAT/token.
 
