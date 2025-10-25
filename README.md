@@ -26,3 +26,15 @@ We are currently working on the MVP and are always looking for people to help us
 conda env create -f repro/environment.yml && conda activate crylo-research
 # 2) Reproduce core figures
 bash repro/repro.sh
+
+## Scope & Privacy
+No client data. Only public-market features and synthetic labels for evaluation. We disclose mechanisms (not proprietary thresholds or model weights).
+
+## How to cite
+Use the “Cite this repository” button on the right once we add `CITATION.cff`.
+Temporary citation:
+> CRYLO Research (2025). Methods & Evaluation Kit. DOI: pending.
+
+## License
+Code: Apache-2.0  
+Docs & sample data: CC BY 4.0
