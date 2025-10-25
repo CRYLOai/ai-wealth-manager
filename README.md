@@ -6,6 +6,11 @@ CRYLO.ai is becoming the first digital wealth management platform for cryptocurr
 
 This system uses 13+ artificial intelligence and machine learning algorithms as an orchestra. To find out more, read: (https://www.crylo.ai/news/what-is-crylo). Also consider going through our White Paper: (https://www.crylo.ai/about-crylo/technology).
 
+**Note:** CRYLO is using third party APIs to collect data and to exchange FIAT/token.
+
+## Would you like to contribute?
+We are currently working on the MVP and are always looking for people to help us turn this idea into reality. Contact us on our website for investors relations (https://www.crylo.ai/about-crylo/investor-relations). If you just want to watch how we grow and stay informed about this project, then sign up on our website (https://www.crylo.ai).
+
 **What’s here**
 - **Methods paper (PDF):** `/paper/methods-paper.pdf`
 - **Evaluation code & baselines:** `/eval/`
@@ -21,8 +26,3 @@ This system uses 13+ artificial intelligence and machine learning algorithms as 
 conda env create -f repro/environment.yml && conda activate crylo-research
 # 2) Reproduce core figures
 bash repro/repro.sh
-
-**Note:** the system is using third party APIs to collect data and to exchange FIAT/token.
-
-## Would you like to contribute?
-We are currently working on the MVP and are always looking for people to help us turn this idea into reality. Contact us on our website for investors relations (https://www.crylo.ai/about-crylo/investor-relations). If you just want to watch how we grow and stay informed about this project, then sign up on our website (https://www.crylo.ai).
