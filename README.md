@@ -53,17 +53,15 @@ This pilot assesses **technical and economic feasibility** of combining ML signa
 - **Out-of-sample, risk-adjusted performance** estimates under realistic frictions.  
 - Dual applicability: **B2B licensing** for institutions and **retail access** to professionally managed strategies—supporting financial inclusion.
 
----
-
 ## Repository Layout
-/paper/ # Methods paper (PDF + source)
-/eval/ # Metrics & baselines (code)
-/repro/ # One-command reproduction scripts & env spec
-/dataset/ # Dataset card (README), schema, tiny sample (not full data)
-/figures/ # Generated figures (after running repro)
-LICENSE # Apache-2.0 for code
-LICENSE-DOCS-DATA # CC BY 4.0 for docs & sample data
-CITATION.cff # GitHub “Cite this repository” metadata
+/paper/ # Methods paper (PDF + source)<br>
+/eval/ # Metrics & baselines (code)<br>
+/repro/ # One-command reproduction scripts & env spec<br>
+/dataset/ # Dataset card (README), schema, tiny sample (not full data)<br>
+/figures/ # Generated figures (after running repro)<br>
+LICENSE # Apache-2.0 for code<br>
+LICENSE-DOCS-DATA # CC BY 4.0 for docs & sample data<br>
+CITATION.cff # GitHub “Cite this repository” metadata<br>
 README.md
 
 ---
