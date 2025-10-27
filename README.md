@@ -80,6 +80,7 @@ pip install -r repro/requirements.txt
 
 # 2) Reproduce core figures
 bash repro/repro.sh
+```
 
 ---
 
