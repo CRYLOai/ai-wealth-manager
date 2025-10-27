@@ -72,14 +72,13 @@ README.md
 Run these commands locally to set up the environment and regenerate figures.
 
 ```bash
-# 1) Create and activate the environment (pick one style)
-# Conda:
+# 1) Create env (conda)
 conda env create -f repro/environment.yml && conda activate crylo-research
-# or pip/venv:
+# or: python venv
 python -m venv .venv && source .venv/bin/activate
 pip install -r repro/requirements.txt
 
-# 2) Reproduce core figures from the tiny sample dataset
+# 2) Reproduce core figures
 bash repro/repro.sh
 
 ---
