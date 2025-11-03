@@ -6,7 +6,7 @@ Guardrailed, non-custodial crypto-portfolio research: methods, evaluation code, 
 
 **Website:** https://www.crylo.ai/research  
 **This repo:** public methods, baselines, a minimal reproduction kit, and dataset schema/sample.  
-**Latest release:** v1.0.0 • DOI: 
+**Latest release:** v1.0.0 • DOI: https://doi.org/10.5281/zenodo.17454874
 
 ---
 
@@ -91,10 +91,10 @@ bash repro/repro.sh
 No client data is included. We use public-market data and synthetic labels for evaluation tasks. We disclose mechanisms, constraints, and metrics—but do not disclose proprietary thresholds, model weights, or feature recipes that would enable cloning.
 
 ## How to cite
-Once the DOI is minted (via Zenodo), GitHub will show a “Cite this repository” button powered by CITATION.cff.
+Use “Cite this repository” button on the right.
 
 **Temporary citation:**
-> CRYLO Research (2025). *Methods & Evaluation Kit*. Version v1.0.0. DOI: *pending*. Available at: (https://github.com/CRYLOai/ai-wealth-manager)
+> CRYLO Research (2025). *Methods & Evaluation Kit*. Version v1.0.0. *[DOI:](https://doi.org/10.5281/zenodo.17454874)*. Available at: (https://github.com/CRYLOai/ai-wealth-manager)
 
 ## Licensing
 - **Code:** Apache-2.0 license.
