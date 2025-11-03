@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+title: CRYLO Research: Methods & Evaluation Kit
+message: "If you use this repository, please cite it as below."
+type: software
+version: v1.0.0
+date-released: 2025-11-03
+repository-code: https://github.com/CRYLOai/ai-wealth-manager
+url: https://www.crylo.ai/research
+authors:
+  - family-names: Isler
+    given-names: Marcel
+    orcid: https://orcid.org/0009-0003-5361-6642
+  - name: CRYLO Research
+license: Apache-2.0
