@@ -8,6 +8,7 @@ authors:
 title: "CRYLO Research: Methods & Evaluation Kit"
 type: software
 version: v1.0.0
+doi: 10.5281/zenodo.17454874
 date-released: 2025-11-03
 repository-code: "https://github.com/CRYLOai/ai-wealth-manager"
 url: "https://www.crylo.ai/research"
