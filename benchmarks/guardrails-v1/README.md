@@ -17,4 +17,4 @@ conda env create -f repro/environment.yml && conda activate crylo-research
 bash repro/repro.sh
 ```
 ## Citation
-CRYLO Research (2025). *Guardrails v1 Benchmark*. DOI: pending.
+CRYLO Research (2025). *Guardrails v1 Benchmark*. Zenodo: https://doi.org/10.5281/zenodo.17454874
