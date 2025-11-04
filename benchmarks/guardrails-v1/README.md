@@ -15,3 +15,6 @@
 ```bash
 conda env create -f repro/environment.yml && conda activate crylo-research
 bash repro/repro.sh
+```
+## Citation
+CRYLO Research (2025). *Guardrails v1 Benchmark*. DOI: pending.
